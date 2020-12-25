@@ -11,12 +11,12 @@ const Group: AnyStyledComponent = styled.div`
 	width: 100%;
 `;
 const Constraint: AnyStyledComponent = styled.div`
-	max-width: 30em;
+	max-width: 40em;
 	margin-left: auto;
 	margin-right: auto;
 `;
 const Footer: AnyStyledComponent = styled.div`
-	font-size: 12px;
+	font-size: 20px;
 	font-weight: bold;
 	padding-top: 10px;
 	padding-bottom: 10px;

@@ -15,12 +15,11 @@ const Box: AnyStyledComponent = styled.div`
 	height: auto;
 	width: auto;
 	margin: 10px;
-	padding: 50px;
+	padding: 10%;
 	background-color: white;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border-radius: 12px;
-	font-size: 20px;
 
 	box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.08);
 
@@ -35,7 +34,7 @@ const Name: AnyStyledComponent = styled.div`
 	justify-content: center;
 	font-weight: bold;
 	padding-bottom: 5%;
-	font-size: 12px;
+	font-size: 20px;
 `;
 const Picture: AnyStyledComponent = styled.img`
 	display: block;
@@ -48,7 +47,7 @@ const Picture: AnyStyledComponent = styled.img`
 const Description: AnyStyledComponent = styled.div`
 	display: flex;
 	justify-content: center;
-	font-size: 12px;
+	font-size: 20px;
 `;
 
 const ImageBox: AnyStyledComponent = styled.div`
@@ -57,7 +56,7 @@ const ImageBox: AnyStyledComponent = styled.div`
 	justify-content: center;
 `;
 const ImageWrap: AnyStyledComponent = styled.div`
-	width: 45%; /*or whatever you choose*/
+	width: 55%; /*or whatever you choose*/
 	margin: auto;
 `;
 const HelloButton: AnyStyledComponent = styled.a`
@@ -66,13 +65,14 @@ const HelloButton: AnyStyledComponent = styled.a`
 	padding-top: 2px;
 	margin-top: 10px;
 	padding: 3px;
+	margin-bottom: 4%;
 	padding-left: 5px;
 	color: white;
 	border-radius: 10px;
 	background: #4a82f6;
 	cursor: pointer;
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 20px;
 	transition: all 0.2s ease-in-out;
 
 	&:hover {
@@ -96,7 +96,7 @@ export default () => {
 						eiusmod tempor incididunt ut labore et dolore magna aliqua.
 					</Description>
 					<ImageBox>
-						<HelloButton href="mailto:name@email.com">
+						<HelloButton href="mailto:haleigh.wagner@gmail.com">
 							Say hello! <span role="img">👋</span>
 						</HelloButton>
 					</ImageBox>

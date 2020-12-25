@@ -27,7 +27,7 @@ const VidBox: AnyStyledComponent = styled.div`
 const Title: AnyStyledComponent = styled.div`
 	display: flex;
 	justify-content: center;
-	font-size: 12px;
+	font-size: 20px;
 	padding-bottom: 15px;
 `;
 const Vid: AnyStyledComponent = styled.iframe`
