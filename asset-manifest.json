@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/haleigh-site/static/css/main.b4076bbd.chunk.css",
+    "main.js": "/haleigh-site/static/js/main.dfd4c6b9.chunk.js",
+    "main.js.map": "/haleigh-site/static/js/main.dfd4c6b9.chunk.js.map",
+    "runtime-main.js": "/haleigh-site/static/js/runtime-main.fb31231e.js",
+    "runtime-main.js.map": "/haleigh-site/static/js/runtime-main.fb31231e.js.map",
+    "static/js/2.868b0ac9.chunk.js": "/haleigh-site/static/js/2.868b0ac9.chunk.js",
+    "static/js/2.868b0ac9.chunk.js.map": "/haleigh-site/static/js/2.868b0ac9.chunk.js.map",
+    "index.html": "/haleigh-site/index.html",
+    "precache-manifest.c781ef96f7a9352cc1581f2b2d118c50.js": "/haleigh-site/precache-manifest.c781ef96f7a9352cc1581f2b2d118c50.js",
+    "service-worker.js": "/haleigh-site/service-worker.js",
+    "static/css/main.b4076bbd.chunk.css.map": "/haleigh-site/static/css/main.b4076bbd.chunk.css.map",
+    "static/js/2.868b0ac9.chunk.js.LICENSE.txt": "/haleigh-site/static/js/2.868b0ac9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb31231e.js",
+    "static/js/2.868b0ac9.chunk.js",
+    "static/css/main.b4076bbd.chunk.css",
+    "static/js/main.dfd4c6b9.chunk.js"
+  ]
+}
